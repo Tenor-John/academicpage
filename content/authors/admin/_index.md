@@ -1,5 +1,6 @@
 ---
 # Display name
+<<<<<<< HEAD
 title: Tao Jiang
 
 # Name pronunciation (optional)
@@ -8,6 +9,16 @@ name_pronunciation: Tao Jiang
 # Full name (for SEO)
 first_name: Tao
 last_name: Jiang
+=======
+title: Tor John
+
+# Name pronunciation (optional)
+name_pronunciation: Tao Jiang
+
+# Full name (for SEO)
+first_name: Tao
+last_name: Jiang
+>>>>>>> 147b7e815952bed2edff68123f9315b40f7b9cc7
 
 # Status emoji
 status:
@@ -52,10 +63,17 @@ interests:
   - Information Retrieval
 
 education:
+<<<<<<< HEAD
   - area: PhD Biochemistry
     institution: USTC (University of Science and Technology of China)
     date_start: 2019-09-07
     date_end: 2023-7-1
+=======
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+>>>>>>> 147b7e815952bed2edff68123f9315b40f7b9cc7
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -63,8 +81,13 @@ education:
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
+<<<<<<< HEAD
     date_start: 2019-09-07
     date_end: 2023-07-01
+=======
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+>>>>>>> 147b7e815952bed2edff68123f9315b40f7b9cc7
     summary: |
       GPA: 3.8/4.0
 
