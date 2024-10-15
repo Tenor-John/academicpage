@@ -1,7 +1,11 @@
 ---
 # Display name
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Tao Jiang
+=======
+title: 江 韬
+>>>>>>> 8ce91a2de0c4bd06ba828e18be56c43e443f6d27
 
 # Name pronunciation (optional)
 name_pronunciation: Tao Jiang
@@ -9,6 +13,7 @@ name_pronunciation: Tao Jiang
 # Full name (for SEO)
 first_name: Tao
 last_name: Jiang
+<<<<<<< HEAD
 =======
 title: Tor John
 
@@ -19,10 +24,12 @@ name_pronunciation: Tao Jiang
 first_name: Tao
 last_name: Jiang
 >>>>>>> 147b7e815952bed2edff68123f9315b40f7b9cc7
+=======
+>>>>>>> 8ce91a2de0c4bd06ba828e18be56c43e443f6d27
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍🔬
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,21 +38,21 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 528 Lab @ USTC
+    url: http://staff.ustc.edu.cn/~mma/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '1278970607@qq.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/tenorjohn_phd
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
@@ -53,14 +60,14 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.cz/citations?user=d2QseXIAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-4116-2085
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biochemistry
+  - Computational Chemistry
+  - Quantum Chemistry
 
 education:
 <<<<<<< HEAD
@@ -71,14 +78,20 @@ education:
 =======
   - area: PhD Artificial Intelligence
     institution: Stanford University
+<<<<<<< HEAD
     date_start: 2016-01-01
     date_end: 2020-12-31
 >>>>>>> 147b7e815952bed2edff68123f9315b40f7b9cc7
+=======
+    date_start: 2023-09-03
+    date_end: 2023-09-03
+>>>>>>> 8ce91a2de0c4bd06ba828e18be56c43e443f6d27
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+<<<<<<< HEAD
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
 <<<<<<< HEAD
@@ -88,8 +101,14 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
 >>>>>>> 147b7e815952bed2edff68123f9315b40f7b9cc7
+=======
+  - area: Undergraduate Polymer Materials and Engineering
+    institution: Guizhou University
+    date_start: 2019-09-07
+    date_end: 2023-07-01
+>>>>>>> 8ce91a2de0c4bd06ba828e18be56c43e443f6d27
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.22/5.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
